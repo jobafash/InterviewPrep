@@ -1,0 +1,5 @@
+This module aims to help developers learn key system design skills that will help them in interviews and in their professional careers.
+
+One way to improve these skills is to understand the architecture of famous systems. This is equivalent to learning from others who have worked on designing large systems. In our experience, if a developer has a good understanding of the architecture of a complex system, it becomes pretty easy for them to gain knowledge from other systems even in a different domain. This is true because most system design techniques can easily be adapted and applied to other distributed systems.
+
+In this module, we start with single-lesson summarized treatment of how to design of several large-scale distributed systems. We follow this with deep-dives into the design of several key large-scale distributed systems. Quizzes and mock interview questions are integrated with this coverage. We also provide a summary of several useful system design patterns as well as a glossary of distributed systems terms and principles. We end the module with a final assessment.
