@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 config.js
+cronjobs.js
 # Distribution / packaging
 .Python
 build/
