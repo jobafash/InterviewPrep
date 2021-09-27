@@ -22,6 +22,7 @@ const arr = str.match(/\d{8}/);
 console.log(arr);
 
 
+
 var data = [42, 21, undefined, 50, 40, undefined, 9];
 
 data = data.filter(function (element) {
