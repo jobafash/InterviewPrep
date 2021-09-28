@@ -49,3 +49,10 @@ n = 3
 # 0          0
 # 0          1
 # 0          2
+
+
+
+def solution(matrix):
+    return list(list(x)[::-1] for x in zip(*matrix))
+
+#Rotate matrix 90 degrees clockwise
